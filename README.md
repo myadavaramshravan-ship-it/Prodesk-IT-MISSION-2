@@ -4,7 +4,7 @@
 
 ## 🚀 Features
 - Once we set the salary then it will constant whenever we have to change the salary we can change it.
-- The total salary will be calculated from starting onwards.
+- The total expenses will be calculated from starting onwards.
 - We can remove the expenses from expenses list
 - Is there one pie chart for analysis purpose it labled as remaining and salary
 - The expense list shows with the names of expenses
